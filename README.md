@@ -24,11 +24,6 @@
   <a href="https://pigment-react-web-example.netlify.com/">Live tool/example</a>
 </p>
 
-<div align="center">
-  <p>Video</p>
-  <a href="https://www.youtube.com/watch?v=IkPblFtWDeo"><img src="https://img.youtube.com/vi/IkPblFtWDeo/0.jpg" alt="Video example"></a>
-</div>
-
 ## Introduction
 
 Pigment is a lightweight, yet powerful, color framework for the web, react-native (WIP) and any other JS-Based project. It is built on the idea that software applications should function effortlessly while simultaneously maintaining their beautiful interfaces.
@@ -143,25 +138,3 @@ color.contrastingFlatTextColor // Flat version
 
 - ~~Global-theming examples with styled-components (CSS in JS)~~
 - React-based bindings and hooks
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://kevinrodriguez.io/"><img src="https://avatars3.githubusercontent.com/u/6248571?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Rodríguez</b></sub></a><br /><a href="https://github.com/kevinrodriguez-io/Pigment/commits?author=kevinrodriguez-io" title="Documentation">📖</a> <a href="https://github.com/kevinrodriguez-io/Pigment/commits?author=kevinrodriguez-io" title="Code">💻</a> <a href="#ideas-kevinrodriguez-io" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/kevinrodriguez-io/Pigment/commits?author=kevinrodriguez-io" title="Tests">⚠️</a></td>
-    <td align="center"><a href="https://www.twitter.com/viccalexander"><img src="https://avatars0.githubusercontent.com/u/1724674?v=4" width="100px;" alt=""/><br /><sub><b>Vicc Alexander</b></sub></a><br /><a href="#ideas-viccalexander" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://kevinwolf.dev"><img src="https://avatars2.githubusercontent.com/u/3157426?v=4" width="100px;" alt=""/><br /><sub><b>Kevin Wolf</b></sub></a><br /><a href="#ideas-iamkevinwolf" title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
